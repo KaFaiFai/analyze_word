@@ -2,7 +2,7 @@
 
 Analyze frequency of words in different languages
 
-## Doc
+## Source
 
 ### Word list
 
