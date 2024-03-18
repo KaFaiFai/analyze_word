@@ -24,8 +24,12 @@ have swear words, dictionary words only
 ### Spanish
 
 - <https://www.openslr.org/21/>
+
 - <https://wortschatz.uni-leipzig.de/en/download/Spanish>
 contain words with different accents
+
+- <https://github.com/hermitdave/FrequencyWords/blob/master/content/2018/es/es_50k.txt>  
+from [here](https://www.reddit.com/r/Spanish/comments/10uqn1c/vocabulary_library_15k_most_used_words/)
 
 ### Japanese
 
