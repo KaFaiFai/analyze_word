@@ -41,7 +41,7 @@ def analyze_alphabets(df: pd.DataFrame):
             non_alphas.append(alphabet)
         elif count < 10:
             less_than_10.append(alphabet)
-        elif count < max_count * 0.01:
+        elif count < max_count * 0.005:
             outliers.append(alphabet)
         else:
             remainings.append(alphabet)
